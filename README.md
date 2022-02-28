@@ -1,3 +1,3 @@
 # Sunflower-Foundation
-Frontend website for Sunflower Foundation
-![alt text]
+Responsive Frontend website for Sunflower Foundation
+
